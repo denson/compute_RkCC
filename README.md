@@ -1,5 +1,5 @@
 # compute_RkCC
-Function to compute the K-category correlation coefficient
+Function to compute the K-category correlation coefficient implemented in Python.
 
 ## Comparing two K-category assignments by a K-category correlation coefficient
 
