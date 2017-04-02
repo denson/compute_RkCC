@@ -1,4 +1,4 @@
-# compute_RkCC
+# Python function to compute K-category correlation coefficient
 Function to compute the K-category correlation coefficient implemented in Python. The K-category correlation is a measure of classification performance and may be considered a multiclass generalization of the [Matthews correlation coefficient](https://en.wikipedia.org/wiki/Matthews_correlation_coefficient).
 
 ## Comparing two K-category assignments by a K-category correlation coefficient
